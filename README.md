@@ -7,9 +7,9 @@ Basic app with GUI that you can check out the data, set hyperparameters and trai
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Backtest Screen](https://raw.githubusercontent.com/rasimandiran/matlab-crypto-lstm/main/screeshots/backtest.png "Backtest Screen")
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Training Screen](https://raw.githubusercontent.com/rasimandiran/matlab-crypto-lstm/main/screeshots/training.png "Training Screen")
 
 
 ## Dataset
